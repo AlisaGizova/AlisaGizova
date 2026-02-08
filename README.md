@@ -1,16 +1,20 @@
-## Hi there 👋
+Добро пожаловать в мой профиль! 👋
 
-<!--
-**AlisaGizova/AlisaGizova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Продуктовый аналитик с глубоким опытом научных исследований, что позволяет подходить к данным с особой строгостью.🚀 Владею полным циклом анализа: от формулировки гипотез и сбора данных (SQL) до их обработки (Python), визуализации (Yandex DataLens) и презентации бизнес-выводов.
+Стремлюсь применять свои навыки работы с данными и аналитический склад ума для решения продуктовых задач, повышения ключевых метрик (LTV, Retention, Conversion) и роста бизнеса. Ищу сильную продуктовую команду для взаимного развития. 
 
-Here are some ideas to get you started:
+🌍 Локация: Россия, г. Екатеринбург
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Образование: НИ ТПУ, Ядерные физика и технологии (магистратура)
+
+💼 Занятость: Аналитик данных, открыт к полной занятости в офисе или гибриде
+
+Основные технологии 🛠
+
+SQL, Python, Jupyter Notebook, Pandas, Matplotlib, SciPy, Математическая статистика, Бизнес-метрики, A/B-тесты, Yandex DataLens 
+
+Контакты 📬
+
+📧Email: kolbasova.alisa@gmail.com
+
+💬Telegram: @alisa_gizova
